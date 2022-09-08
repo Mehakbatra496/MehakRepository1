@@ -1,0 +1,56 @@
+*
+{
+    margin: 0%;
+padding: 0
+}
+/* Last div starts */
+.last
+{
+    /* border: 2px solid yellow; */
+    height: 45vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+margin: 0%;
+padding: 0;
+}
+
+.last-one
+{
+    width: 23%;
+    /* height: 90%; */
+    /* border: 2px solid red; */
+    list-style-type: none;
+    font-size: 120%;
+    padding: 4%;
+}
+.last-one li{
+    border-bottom: 2px solid white;
+
+}
+.last-one img
+{
+    width: 100%;
+    height: 50%;
+
+}
+
+
+
+/* last div ends here */
+
+
+/* Footer starts.............. */
+
+
+
+.footer
+{
+    padding: 1.5% 0 0 35%;
+    width: 65%;
+    height: 9vh;
+    color: white;
+    background-color: rgb(42, 39, 39);
+}
